@@ -1,0 +1,58 @@
+.top-header{
+    height: 61px;
+    background-color: #fff;
+    border-bottom: 2px solid #CB0404;
+    border-radius: 0px 0px 10px 10px;
+}
+.top-header .icons{
+    display: block;
+    float: right;
+    padding-top: 20px;
+}
+.top-header .icons span{
+    margin-right: 10px;
+    color: #CB0404;
+}
+.top-title h4{
+    letter-spacing: 0.7px;
+    text-transform: uppercase;
+    font-size: 20px;
+    padding-top: 15px;
+}
+.home-card{
+    height: 80px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
+    background-color: #FF3F33;
+}
+.home-card .home-card-left{
+    height: 80px;
+    width: 70%;
+    float: left;
+}
+.home-card .home-card-left .card-num{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    padding: 10px 10px 5px 15px;
+}
+.home-card .home-card-left  .card-title{
+    color: #fff;
+    font-weight: 400;
+    letter-spacing: 1px;
+    padding: 0px 10px 5px 15px;
+}
+.home-card  .home-card-right{
+    height: 80px;
+    width: 30%;
+    float: left;
+}
+.home-card .home-card-right span{
+    font-size: 30px;
+    color: #fff;
+    display: block;
+    padding-top: 15px;
+    text-align: center;
+}

@@ -1,0 +1,45 @@
+.sidebar{
+    height: 100vh;
+    background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;
+}
+.sidebar .sidebar-top{
+    height: 61px;
+    border-bottom: 2px solid #CB0404;
+    border-radius: 0px 0px 10px 10px;
+}
+.sidebar .sidebar-top h4{
+    text-align: center;
+    padding-top: 17px; 
+    color: #CB0404; 
+    background-image: linear-gradient(45deg, #CB0404 , red, #CB0404 100%); 
+    background-clip: text; 
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent; 
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.sidebar .sidebar-bottom nav .nav{
+    display: block;
+    color: #313131;
+    text-decoration: none;
+    padding: 7px 10px 7px 15px;
+    letter-spacing: 0.6px;
+    font-size: 14px;
+    border: 1px solid #CB0404;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+.sidebar .sidebar-bottom nav .nav:hover{
+    background-color: #CB0404;
+    color: #fff;
+}
+
+#drop{
+    float: right;
+    margin-top: 5px;
+    font-size: 12px;
+}

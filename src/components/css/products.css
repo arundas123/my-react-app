@@ -1,0 +1,66 @@
+.product-card{
+    height: auto;
+    background-color: #fff;
+    border-top: 2px solid #CB0404;
+    border-radius: 5px;
+    padding: 20px 10px 15px 20px;
+}
+
+.product-card .product-btn button{
+    border: none;
+    padding: 3px 10px;
+    border-radius: 3px;
+    text-transform: uppercase;
+    background-color: #CB0404;
+    color: #fff;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+}
+.product-table{
+    height: auto;
+    background-color: #fff;
+    border-top: 2px solid #CB0404;
+    border-radius: 5px;
+    margin-top: 15px;
+    padding: 15px 10px 0px 10px;
+}
+.product-table thead tr th{
+    border-bottom: 2px solid #CB0404;
+}
+.searchbox{
+    display: block;
+    float: right;
+}
+.product-form{
+    height: auto;
+    padding: 10px 20px;
+    background-color: #fff;
+    border-top: 2px solid #CB0404;
+    border-radius: 5px;
+}
+.product-form button{
+    border: none;
+    background-color: #CB0404;
+    color: #fff;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
+.product-form label{
+    letter-spacing: 0.7px;
+}
+.product-form input[type="text"]{
+    height: 47px;
+}
+.product-form input[type="text"]::placeholder{
+        letter-spacing: 0.7px;
+}
+.product-form input[type="file"]{
+    height: 47px;
+    padding-top: 10px;
+}
+.product-form .submit-btn button{
+    padding: 5px 25px;
+    letter-spacing: 1px;
+    margin-left: 10px;
+
+}
