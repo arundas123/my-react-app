@@ -40,7 +40,7 @@ import BannerApp from  '../../assets/images/bannerapp.png';
 import App from '../../assets/images/app.png'; 
 import Google from '../../assets/images/google.png'; 
 import LookingSection from "./LookingSection";
-import Footer from ".../footer/footer.jsx";
+import Footer from ".../footer/Footer.jsx";
 
     const User= ()=> {
         const scrollRef = useRef(null);
