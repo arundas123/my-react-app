@@ -1,6 +1,6 @@
 import React from "react";
 import Sidebar from "./Sidebar";
-import Body from "./Body";
+import Body from "./Body.jsx";
 import '../css/body.css';
 import { FaBell } from "react-icons/fa";
 import { FaEnvelope } from "react-icons/fa";
